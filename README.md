@@ -6,11 +6,11 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate can not detect the `requirements.txt`
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate can detect the `requirements.txt` to the `Dependency Dashboard/Detected dependencies`
 
 ## Link to the Renovate issue or Discussion
 
